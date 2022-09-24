@@ -18,8 +18,8 @@ In this project, I defined and trained a DCGAN on a dataset of faces. The goal o
 
 1. Clone the repository and navigage to the downloaded folder.
 	```
-		git clone https://github.com/Lynchez/Face-Generation
-		cd Face-Generation
+		git clone https://github.com/IbrahimAlrayes/Face-Generation-Using-GANs
+		cd Face-Generation-Using-GANs
 	```
 2. Open the `dlnd_face_generation.ipynb` file. Of course, you can find HTML version of the file.
 	```
